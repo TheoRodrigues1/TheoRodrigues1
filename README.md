@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me Theo Fernandes Rodrigues, tenho 25 anos e sou natural do Rio Grande de Janeiro. Concluí o ensino médio no Colegio Divina Providencia. Atualmente, estou cursando: Desenvolvedir FullStack na Ebac.
+Me Theo Fernandes Rodrigues, tenho 25 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colegio Divina Providencia. Atualmente, estou cursando: Desenvolvedor FullStack na Ebac.
 
 ### 🤖 Linguagens e Tecnologias
 
